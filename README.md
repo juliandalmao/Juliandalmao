@@ -12,7 +12,19 @@ Desde una mirada liberal–libertaria, promuevo un Estado limitado, eficiente y 
 - Combate a la corrupción y a los privilegios de la política  
 - Defensa de las libertades individuales  
 - Estado austero, profesional y no partidizado  
-- Protección de infraestructuras críticas y fronteras  
+- Protección de infraestructuras críticas y fronteras
+- ## Capacitación y Formación Complementaria
+
+### Prefectura Naval Argentina
+- Capacitación Superior de Suboficiales  
+  Departamento Académico Superior de Suboficiales  
+  Formación académica, operativa y legal para funciones de seguridad, control, conducción y protección de infraestructuras críticas.  
+  Carga horaria aproximada: 1.376 horas cátedra.
+
+### Capacitación Internacional
+- Cursos y programas de formación en cumplimiento de la ley, lucha contra la corrupción, ciberdelincuencia y delitos complejos.
+- Capacitación realizada a través de la Oficina de las Naciones Unidas contra la Droga y el Delito (UNODC), bajo estándares internacionales.
+
 
 ## Formación y Experiencia
 - Ex suboficial de la Prefectura Naval Argentina (2006–2025)
