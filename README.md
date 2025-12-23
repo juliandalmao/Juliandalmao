@@ -40,6 +40,13 @@ Desde una mirada liberal–libertaria, promuevo un Estado limitado, eficiente y 
 ## Formación Complementaria
 Capacitación en estándares internacionales vinculados al cumplimiento de la ley, lucha contra la corrupción y ciberdelincuencia, incluyendo programas de la Oficina de las Naciones Unidas contra la Droga y el Delito (UNODC).
 
+## 👔 Experiencia en Liderazgo & Management
+
+* **Director Ejecutivo / Franquiciado | IAMDE Concepción del Uruguay** (2018 - 2024)
+    * Adquisición y dirección integral del **Instituto Argentino de Moda y Diseño (IAMDE)**.
+    * Gestión de la franquicia: Liderazgo estratégico, administración financiera y desarrollo de marca.
+    * Implementación de mejoras operativas y modernización institucional durante 6 años de gestión exitosa.
+
 ## Posicionamiento
 Creo en una Argentina donde el mérito reemplace al amiguismo, donde la ley sea igual para todos y donde el Estado deje de ser un obstáculo para quienes producen, trabajan y viven en paz.
 
