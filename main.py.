@@ -1,0 +1,17 @@
+import pandas as pd
+
+# Gestión de stock de mis Drugstores en Concordia
+data = {
+    'producto': ['Bebidas', 'Snacks', 'Tabaco', 'Dulces'],
+    'costo': [850, 1100, 1800, 450],
+    'precio_venta': [1500, 2100, 2600, 950],
+    'stock_actual': [45, 12, 88, 15]
+}
+
+df = pd.DataFrame(data)
+
+# Cálculo de margen de ganancia
+df['margen_ganancia'] = df['precio_venta'] - df['costo']
+
+print("--- REPORTE DE GESTIÓN RETAIL - CONCORDIA ---")
+print(df)
