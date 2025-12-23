@@ -45,4 +45,5 @@ Creo en una Argentina donde el mérito reemplace al amiguismo, donde la ley sea 
 
 ## Contacto
 📧 juliandalmao@live.com
+La libertad no se declama: se gestiona con orden, seguridad y un Estado limitado que funcione.
 
