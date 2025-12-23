@@ -1,27 +1,36 @@
 # Julián Ezequiel Dalmao
 
-Especialista en seguridad de la navegación y protección marítima/portuaria, con experiencia operativa en unidades especializadas y formación en cumplimiento de la ley, lucha contra la corrupción y ciberdelincuencia.
+Referente político libertario con formación institucional y experiencia real en el Estado, especializado en seguridad, orden público y protección de infraestructuras críticas.
 
-## Perfil Profesional
-Ex suboficial de la Prefectura Naval Argentina con 19 años de trayectoria. Desempeño en unidades tácticas como Agrupación Albatros y Unidad Cinturón Sur. Formación complementaria con estándares internacionales (UNODC).
+## Perfil Público
+Ex suboficial de la Prefectura Naval Argentina con 19 años de trayectoria en fuerzas federales, con desempeño en unidades operativas y tácticas. Mi recorrido profesional me permitió conocer el funcionamiento interno del Estado, sus falencias estructurales y los costos que la ineficiencia, la corrupción y el abuso regulatorio imponen sobre los ciudadanos.
 
-## Áreas de Especialización
-- Seguridad marítima, fluvial y portuaria  
-- Protección de infraestructuras críticas  
-- Protocolos legales y uso racional de la fuerza  
-- Lucha contra la corrupción  
-- Ciberdelincuencia  
+Desde una mirada liberal–libertaria, promuevo un Estado limitado, eficiente y sometido a la ley, donde la seguridad, la justicia y la libertad individual no sean rehenes de la política ni de la burocracia.
+
+## Ejes de Trabajo
+- Seguridad ciudadana y orden público con apego irrestricto a la ley  
+- Combate a la corrupción y a los privilegios de la política  
+- Defensa de las libertades individuales  
+- Estado austero, profesional y no partidizado  
+- Protección de infraestructuras críticas y fronteras  
+
+## Formación y Experiencia
+- Ex suboficial de la Prefectura Naval Argentina (2006–2025)
+- Unidades operativas y especiales: Agrupación Albatros, Unidad Cinturón Sur
+- Dirección de Protección Ciudadana
+- Prefectura Represa Salto Grande
+- Prefectura Federación
 
 ## Formación Académica
 - Gestión Aeronáutica – Universidad Tecnológica Nacional (UTN) (en curso)
 - Bachiller en Comunicación Social
 
-## Experiencia Destacada
-- Prefectura Federación (2023–2025)
-- Prefectura Represa Salto Grande (2021–2023)
-- Dirección de Protección Ciudadana
-- Unidad Cinturón Sur
-- Agrupación Albatros
+## Formación Complementaria
+Capacitación en estándares internacionales vinculados al cumplimiento de la ley, lucha contra la corrupción y ciberdelincuencia, incluyendo programas de la Oficina de las Naciones Unidas contra la Droga y el Delito (UNODC).
+
+## Posicionamiento
+Creo en una Argentina donde el mérito reemplace al amiguismo, donde la ley sea igual para todos y donde el Estado deje de ser un obstáculo para quienes producen, trabajan y viven en paz.
 
 ## Contacto
 📧 juliandalmao@live.com
+
