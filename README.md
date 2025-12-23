@@ -22,7 +22,7 @@ Desde una mirada liberal–libertaria, promuevo un Estado limitado, eficiente y 
 - Prefectura Federación
 
 ## Formación Académica
-- Gestión Aeronáutica – Universidad Tecnológica Nacional (UTN) (en curso)
+- Gestión Aeronáutica – Universidad Tecnológica Nacional (UTN)
 - Bachiller en Comunicación Social
 
 ## Formación Complementaria
